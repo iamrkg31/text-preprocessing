@@ -1,0 +1,17 @@
+tweet,sentiment,cleaned_text
+"RT @Jacque_s_: I took advantage of the law, so has everyone else. I deserve to be president. 
+
+NO YOU DO NOT. #GOPDebateS",negative,$MENTION$ i took advantage of the law so has everyone else. i deserve to be president. no you do not. gopdebates
+It's a wrestling match. #gopdebates,neutral,it 's a wrestling match. gopdebates
+"#Coachella2015 Sun nite looks fun w/smaller acts: #JennyLewis (whom I want to see), #Sloan (fun #Canadian band) &amp; #MacDeMarco (#Canadian)",positive,coachella2015 sun nite looks fun w/smaller acts jennylewis whom i want to see sloan fun canadian band macdemarco canadian
+Didn't get enough hacking on #startupbus? RSVP for SuperHappyDevHouse on Sunday in Austin at #sxsw. $URL$,neutral,did n't get enough hacking on startupbus rsvp for superhappydevhouse on sunday in austin at sxsw. $URL$
+"RT @HensleywkAo: #GOPDebate Rough night for @FoxNews , @megynkelly &amp; Chris Wallace were unprofessional &amp; had axe to grind. Followed up by p��_",negative,$MENTION$ gopdebate rough night for $MENTION$ $MENTION$ chris wallace were unprofessional had axe to grind. followed up by p_
+@mention #SXSW don't forget @mention to plan your schedule. Plus our free iphone app $URL$,positive,$MENTION$ sxsw do n't forget $MENTION$ to plan your schedule. plus our free iphone app $URL$
+Just replace the names from #GOPDebate debaters with #drake and #meekmill and they said enough for at least 6 tracks of straight #fire,negative,just replace the names from gopdebate debaters with drake and meekmill and they said enough for at least $NUMBER$ tracks of straight fire
+"RT @Just_JDreaming: Fox to Presidential Candidates: So lets all talk about God for a second.
+ 
+Founding Fathers:
+Jesus: 
+#GOPDebates http:/��_",negative,$MENTION$ fox to presidential candidates so lets all talk about god for a second. founding fathers jesus gopdebates http
+Just got my iPad 2 2.2 $24 white 64gb wifi blue cover. That is the only thing they sell in #SXSW apple store.  $URL$,positive,just got my ipad $NUMBER$ $NUMBER$ $24 white $NUMBER$ gb wifi blue cover. that is the only thing they sell in sxsw apple store. $URL$
+"@FrankLuntz @megynkelly your ""focus group"" was a joke! Your takedown attempt of #Trump2016 was a huge fail! Trump won #GOPDebate easily!",positive,$MENTION$ $MENTION$ your focus group was a joke your takedown attempt of trump2016 was a huge fail trump won gopdebate easily

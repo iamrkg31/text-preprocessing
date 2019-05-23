@@ -40,7 +40,7 @@ def _tokenize(text):
 
 def extract_valid_words(tokens):
     """ Extracts the words relevant for analysis"""
-    tokens = [tok for tok in tokens if re.search("[a-z0-9\$]+(-|'|)[a-z0-9\$]+", tok) or re.search("([a-z0-9\$]+)", tok)]
+    tokens = [tok for tok in tokens if re.search("[a-z0-9\$]+(_|-|'|)[a-z0-9\$]+", tok) or re.search("([a-z0-9\$]+)", tok)]
     return tokens
 
 
